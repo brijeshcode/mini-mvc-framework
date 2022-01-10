@@ -1,0 +1,12 @@
+/node_modules
+/vendor
+/public/cache
+/public/images
+/public/css
+/public/js
+/db-sample
+config.php
+.phpunit.result.cache
+docker-compose.override.yml
+npm-debug.log
+yarn-error.log
